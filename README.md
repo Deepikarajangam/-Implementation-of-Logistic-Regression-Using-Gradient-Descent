@@ -20,6 +20,13 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 ```
+/*
+Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+Developed by: DEEPIKA R
+RegisterNumber: 212224040061 
+*/
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
